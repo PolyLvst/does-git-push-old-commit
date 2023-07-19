@@ -1,1 +1,1 @@
-# Git Pushes All Commit In The Branch if you see this
+# Git will not push older commit
